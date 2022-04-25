@@ -1,4 +1,3 @@
-from tkinter import W
 from manim import *
 import numpy as np
 
